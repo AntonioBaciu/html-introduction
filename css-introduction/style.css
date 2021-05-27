@@ -1,0 +1,80 @@
+html {
+  background-color: #fae4969a;
+}
+body {
+  width: 960px;
+  margin: 0 auto;
+  font-family: "Lato";
+  background-color: #dddfd485;
+}
+
+.header {
+  text-align: center;
+  font-size: 3em;
+}
+
+.sub-list {
+  list-style-type: none;
+}
+
+.image-wrap {
+  width: 200px;
+}
+
+.pic {
+  border-radius: 100%;
+  height: 200px;
+}
+
+.first {
+  display: flex;
+  margin: 15px 15px;
+}
+
+.intro-wrap {
+  margin-left: 30px;
+}
+.intro-wrap p {
+  font-size: 1.4em;
+}
+
+td {
+  border: 2px solid #3fb0ac;
+  padding: 10px;
+  padding: 22px;
+  font-size: 1.4em;
+}
+
+.second {
+  display: flex;
+  justify-content: space-around;
+}
+
+.hobby {
+  text-align: center;
+}
+
+.hobby-wrap {
+  border: 2px solid #3fb0ac;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.count-wrap,
+.fun-wrap {
+  margin-left: 25px;
+}
+
+.fun-wrap p {
+  font-size: 1.1em;
+}
+
+.count-wrap p {
+  font-size: 1.1em;
+}
+
+.footer-nav {
+  text-align: center;
+  margin-bottom: 10px;
+}
